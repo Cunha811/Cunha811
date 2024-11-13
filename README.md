@@ -5,4 +5,5 @@
 - 👯 I’m looking to collaborate on tech and sports-related projects.
 - 📫 How to reach me: franccunha5@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cunha-419221296)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-cunha-419221296){:target="_blank"}
+
